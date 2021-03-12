@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'coreordering-bota3e0a12'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ae1ca142ebb2427995e49a17cee68629 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1b996e6904645aa872ad1e8c360447e }}
